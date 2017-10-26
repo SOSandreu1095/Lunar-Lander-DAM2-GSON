@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Default",
+    "dificultad": "normal",
+    "modeloNave": "estandar",
+    "modeloLuna": "amarilla"
+  },
+  {
+    "nombre": "Batman",
+    "dificultad": "dificil",
+    "modeloNave": "starWars",
+    "modeloLuna": "gris"
+  },
+  {
+    "nombre": "Andreu",
+    "dificultad": "facil",
+    "modeloNave": "estandar",
+    "modeloLuna": "gris"
+  }
+]
